@@ -1,0 +1,16 @@
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore IDE/project files
+/.classpath
+/.project
+/.settings/
+/.idea/
+/*.iml
+out/
+bin/
